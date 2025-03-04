@@ -39,3 +39,10 @@ api/*.js.map
 # ssl certs we ignore the content of the folder but keep the folder around.
 nginx/ssl/*
 !nginx/ssl/.gitkeep
+
+__pycache__
+modify_dicom_dates.py
+__MACOSX
+.DS_Store
+OpenNeuroPET-Phantoms/
+PHANTOMS.zip
